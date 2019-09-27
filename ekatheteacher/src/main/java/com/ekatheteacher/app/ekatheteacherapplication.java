@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EkatheteacherApplication {
+public class ekatheteacherapplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EkatheteacherApplication.class, args);
+		
+		SpringApplication.run(ekatheteacherapplication.class, args);
 	}
 
 }
